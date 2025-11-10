@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd-number {
+    background-color: #d43bb3; /* Light gray background for odd-numbered items */
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second-elem {
+    color: rgb(24, 90, 165);
+    font-size: 36px;
+}
+
+#third-elem {
+    font-size: 24px;
+}
+
+#fourth-elem {
+    background-color: rgb(90, 241, 191);
+    font-size: 24px;
+    font-weight: bold;
+}
